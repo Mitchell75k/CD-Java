@@ -9,7 +9,6 @@ public class Cafe {
         String displayTotalMessage = ", your total is $";
         
         // Menu variables (add yours below)
-        double mochaPrice = 3.5;
         Double dripCoffee = 3.5;
         Double latte = 4.5;
         Double cappuccino = 5.0;
@@ -22,7 +21,6 @@ public class Cafe {
     
         // Order completions (add yours below)
         boolean isReadyOrder1 = false;
-        boolean isReadyOrder2 = true;
         boolean isReadyOrder3 = false;
         boolean isReadyOrder4 = true;
 
