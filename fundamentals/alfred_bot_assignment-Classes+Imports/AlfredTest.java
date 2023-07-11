@@ -1,4 +1,5 @@
-public class AlfredTest { //this file cant run because it doesnt have a main method. But the main method is in 
+
+public class AlfredTest { //this file cant run because it doesn't have a main method. But the main method is in 
     /*
     * This main method will always be the launch point for a Java application
     * For now, we are using the main to test all our 
