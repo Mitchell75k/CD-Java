@@ -1,8 +1,7 @@
 package fundamentals.cafe_business_logic_assignment;
 
 
-import java.util.ArrayList;
-import java.util.Arrays; 
+import java.util.ArrayList; 
 
 public class TestCafe {
     public static void main(String[] args) {
