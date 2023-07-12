@@ -20,7 +20,7 @@ public class CafeUtil {
     }
 
     public void displayMenu(ArrayList<String> menuItems) { 
-        for (int i = 0; i <menuItems.size(); i++) {             //for each item in menuItems
+        for (int i = 0; i <menuItems.size(); i++) {               //for each item in menuItems
             System.out.println((i+1) + ". " + menuItems.get(i)); //print the item number and the item
         }// using .println(i+1) instead of (i) makes the first item be item 1 instead of 0 (formatting purposes)
     }
@@ -77,7 +77,3 @@ public class CafeUtil {
             return true; //if the size of menuItems and prices are equal, return true
         } 
 }
-
-//javac fundamentals/cafe_business_logic_assignment/CafeUtil.java
-//javac fundamentals/cafe_business_logic_assignment/TestCafe.java
-//java fundamentals.cafe_business_logic_assignment.TestCafe   

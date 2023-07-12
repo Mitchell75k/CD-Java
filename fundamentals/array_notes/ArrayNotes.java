@@ -34,6 +34,8 @@ public class ArrayNotes {
         // we are using the <> to specify the type of data that will be stored in the ArrayList, in this case, integers - this is called a generic
         //ArrayList's generic type must be a class, not a primitive type. For ex, we can't use int, but we can use Integer.
         // we are using the () to call the constructor of the ArrayList class
+        //ArrayLists are used when we don't know how many items we will need to store, 
+        //or when we need to add or remove items from the middle of the list
 
         //How to MANIPULATE an ArrayList:
         myArray.add(10); //we use setter methods to add values to an ArrayList, in this case '.add()'
