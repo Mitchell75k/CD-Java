@@ -1,4 +1,4 @@
-package fundamentals.NOTES.loop_notes;
+package fundamentals.__NOTES__.loop_notes;
 
 import java.util.ArrayList;
 
