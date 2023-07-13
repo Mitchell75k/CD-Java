@@ -1,3 +1,4 @@
+package fundamentals.__ASSIGNMENTS__.alfred_bot_assignment;
 
 public class AlfredTest { //this file cant run because it doesn't have a main method. But the main method is in 
     /*

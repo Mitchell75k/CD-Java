@@ -1,3 +1,4 @@
+package fundamentals.__ASSIGNMENTS__.alfred_bot_assignment;
 import java.util.Date;
 public class AlfredQuotes {
     

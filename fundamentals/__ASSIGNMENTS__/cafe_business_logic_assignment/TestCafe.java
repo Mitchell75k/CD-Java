@@ -1,4 +1,4 @@
-package fundamentals.cafe_business_logic_assignment;
+package fundamentals.__ASSIGNMENTS__.cafe_business_logic_assignment;
 
 
 import java.util.ArrayList; 
