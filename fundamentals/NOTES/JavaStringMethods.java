@@ -1,3 +1,4 @@
+package fundamentals.NOTES;
 //Here's a list of common methods in the String class:
 //1. int length() - returns the number of characters in the String
 //2. String concat(String str) - returns a new String that appends the specified String to the end of the original String

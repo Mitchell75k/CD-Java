@@ -3,13 +3,6 @@ import java.util.Random; // random is a class used for generating random numbers
 
 
 public class PuzzleJava {
-    //the type for a method that would return an array of integers is: public static int[] methodName() {}
-    //instead of using static in 'public static int[] methodname()' , we could use 'public int[] methodname()'
-    //but then we would have to create an instance of the class known as: PuzzleJava puzzle = new PuzzleJava();
-    //and then call the method using the instance: puzzle.methodName();
-    //but since we are using static, we can call the method directly: PuzzleJava.methodName();
-    //static methods are methods that belong to the class and not to the object of the class
-    //static methods can be called without creating an instance of the class
 
     public int[] getTenRolls() { //int[] refers to the type that the method returns
         Random randmachine = new Random(); 
