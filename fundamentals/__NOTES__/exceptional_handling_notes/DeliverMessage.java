@@ -1,5 +1,6 @@
 package fundamentals.__NOTES__.exceptional_handling_notes; 
 
+//REFER TO Exceptional.java in fundamentals/__ASSIGNMENTS__/exceptionals_assignment/Exceptional.java !!
 
 //exception handling is a way to handle/prevent errors in your code, both potential and unexpected
 //there are two types of errors: compile-time errors and runtime errors

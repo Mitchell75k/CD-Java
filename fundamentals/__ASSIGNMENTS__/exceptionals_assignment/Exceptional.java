@@ -33,9 +33,12 @@ public class Exceptional {
                 System.out.println(castedValue);
             }
         } catch (ClassCastException e) { //the expected error is ClassCastException, 
-            System.out.println("ERROR ON INDEX: " + myList.indexOf(e));            //grabs the index of the error. We'll get -1 because the error is not in the ArrayList but in the code 
+            System.out.println("ERROR ON INDEX: " + myList.indexOf(e) * -1);            //grabs the index of the error. We'll get -1 because the error is not in the ArrayList but in the code 
             System.out.println("ERROR MESSAGE: " + e.getMessage());               //grabs the error message
-            System.out.println("ERROR VALUE: " + myList.get(myList.indexOf(e))); //grabs the value of the index
+            System.out.println("ERROR VALUE: " + myList.get(myList.indexOf(e) * -1)); //grabs the value of the error. 
+            
+            //we are multiplying by -1 to get the index of the error because the error is not in the ArrayList but in the code.
+            //if we don't multiply by -1, we will get an error because the index is out of bounds
         }
     }
 }
