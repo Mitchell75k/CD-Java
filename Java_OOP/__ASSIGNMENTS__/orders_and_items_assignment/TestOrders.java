@@ -1,6 +1,4 @@
 package Java_OOP.__ASSIGNMENTS__.orders_and_items_assignment;
-//javac Java_OOP/__ASSIGNMENTS__/orders_and_items_assignment/TestOrders.java
-//java Java_OOP/__ASSIGNMENTS__/orders_and_items_assignment/TestOrders
 public class TestOrders {
     public static void main(String[] args) {
 
