@@ -1,6 +1,6 @@
 package fundamentals.__ASSIGNMENTS__.alfred_bot_assignment;
 
-public class AlfredTest { //this file cant run because it doesn't have a main method. But the main method is in 
+public class AlfredTest { 
     /*
     * This main method will always be the launch point for a Java application
     * For now, we are using the main to test all our 
@@ -10,7 +10,8 @@ public class AlfredTest { //this file cant run because it doesn't have a main me
     public static void main(String[] args) {
         // Make an instance of AlfredQuotes to access all its methods.
         AlfredQuotes alfredBot = new AlfredQuotes();
-        System.out.println(alfredBot);
+        //this will print the memory location of the alfredBot object
+        System.out.println(alfredBot); 
         // Make some test greetings, providing any necessary data
         String testGreeting = alfredBot.basicGreeting();
         String testGuestGreeting = alfredBot.guestGreeting("Beth Kane");
