@@ -62,5 +62,4 @@ public class BankTest {
         System.out.println("Total Bank Money: " + BankAccount.getTotalMoney());
     }
 }
-// javac BankTest.java
-// java BankTest
+
