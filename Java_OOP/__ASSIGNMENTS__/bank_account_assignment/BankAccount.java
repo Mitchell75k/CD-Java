@@ -9,7 +9,7 @@ public class BankAccount {
         private static double totalMoney; // refers to the sum of all bank account checking and savings balances
         
         //Method for generating a random 10 digit account number
-        private String generateAccountNumber() {
+        private String generateAccountNumber() { //private because we don't want the user to be able to change the account number, only generate it
             String accNum = "";
             for (int i = 0; i < 10; i++) {
                 accNum += (int) (Math.random() * 10); //casting the random number to an int so that it can be concatenated to the string
