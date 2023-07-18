@@ -22,7 +22,7 @@ public class BankAccount {
             this.accountNumber = this.generateAccountNumber(); //calling the method to generate a random account number
             this.checkingBalance = 0;
             this.savingsBalance = 0;
-            accounts++;
+            accounts++; //incrementing the number of accounts every time we create a new instance of the class
         }
         
         // GETTERS
