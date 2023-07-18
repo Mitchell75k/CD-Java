@@ -1,4 +1,4 @@
-package fundamentals.__ASSIGNMENTS__.puzzling_practice_assignment;
+package fundamentals.__assignments__.puzzling_practice_assignment;
 
 import java.util.Arrays;
 public class PuzzleTest {

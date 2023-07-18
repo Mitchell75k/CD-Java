@@ -1,4 +1,4 @@
-package fundamentals.__ASSIGNMENTS__.puzzling_practice_assignment;
+package fundamentals.__assignments__.puzzling_practice_assignment;
 import java.util.Random; // random is a class used for generating random numbers
 
 

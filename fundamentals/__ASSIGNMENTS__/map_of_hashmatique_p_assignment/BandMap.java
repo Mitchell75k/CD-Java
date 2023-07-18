@@ -1,4 +1,4 @@
-package fundamentals.__ASSIGNMENTS__.map_of_hashmatique_p_assignment;
+package fundamentals.__assignments__.map_of_hashmatique_p_assignment;
 
 import java.util.Set;
 import java.util.HashMap;

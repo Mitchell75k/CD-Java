@@ -1,4 +1,4 @@
-package fundamentals.__ASSIGNMENTS__.exceptionals_assignment;
+package fundamentals.__assignments__.exceptionals_assignment;
 
 import java.util.ArrayList;
 

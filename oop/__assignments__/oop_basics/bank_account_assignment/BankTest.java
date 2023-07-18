@@ -1,4 +1,4 @@
-package Java_OOP.__assignments__.oop_basics.bank_account_assignment;
+package oop.__assignments__.oop_basics.bank_account_assignment;
 
 public class BankTest {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package fundamentals.__NOTES__.exceptional_handling_notes; 
+package fundamentals.__notes__.exceptional_handling_notes; 
 
 //REFER TO Exceptional.java in fundamentals/__ASSIGNMENTS__/exceptionals_assignment/Exceptional.java !!
 

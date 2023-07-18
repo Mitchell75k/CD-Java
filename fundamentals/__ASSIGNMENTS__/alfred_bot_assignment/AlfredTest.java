@@ -1,4 +1,4 @@
-package fundamentals.__ASSIGNMENTS__.alfred_bot_assignment;
+package fundamentals.__assignments__.alfred_bot_assignment;
 
 public class AlfredTest { 
     /*

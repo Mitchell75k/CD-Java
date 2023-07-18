@@ -1,4 +1,4 @@
-package Java_OOP.__assignments__.oop_basics.barista_challenge;
+package oop.__assignments__.oop_basics.barista_challenge;
 import java.util.ArrayList;
 
 public class Order {

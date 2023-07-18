@@ -1,4 +1,4 @@
-package fundamentals.__NOTES__.hashmap_notes;
+package fundamentals.__notes__.hashmap_notes;
 import java.util.HashMap;
 import java.util.Set;
 
