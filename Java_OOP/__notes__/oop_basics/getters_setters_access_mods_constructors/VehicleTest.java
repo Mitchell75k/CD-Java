@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.getters_setters_access_mods_constructors;
+package Java_OOP.__notes__.oop_basics.getters_setters_access_mods_constructors;
 
 public class VehicleTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.four_pillars_oop;
+package Java_OOP.__notes__.advanced_oop.four_pillars_oop;
 
 //this file is used to demonstrate abstraction in Java classes
 //abstraction is the process of hiding certain details and only showing the essential information to the user by using  access modifiers (public, private, protected, static)

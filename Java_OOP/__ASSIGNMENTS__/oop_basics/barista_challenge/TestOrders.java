@@ -1,4 +1,4 @@
-package Java_OOP.__ASSIGNMENTS__.barista_challenge;
+package Java_OOP.__assignments__.oop_basics.barista_challenge;
 public class TestOrders {
     public static void main(String[] args) {
         Order order1 = new Order();

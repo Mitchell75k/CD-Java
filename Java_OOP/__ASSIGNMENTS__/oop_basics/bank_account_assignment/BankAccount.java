@@ -1,8 +1,8 @@
-package Java_OOP.__ASSIGNMENTS__.bank_account_assignment;
+package Java_OOP.__assignments__.oop_basics.bank_account_assignment;
 
 public class BankAccount {
          // MEMBER VARIABLES
-        private String accountNumber; 
+        private String accountNumber; //using private so its not accessible in other classes, unless we use a public getter or setter method from this class
         private double checkingBalance;
         private double savingsBalance;
         private static int accounts;
@@ -42,7 +42,7 @@ public class BankAccount {
         public String getAccountNumber() { //getter for the account number
             return this.accountNumber;
         }
-        // -----------------------------METHODS--------------------------------
+        // -----------------------------METHODS-------------------------------- 
 
         // deposit--------------------------------------
         // - users should be able to deposit money into their checking or savings account

@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.object_superclass;
+package Java_OOP.__notes__.oop_basics.object_superclass;
 
 public class PersonTest {
     public static void main(String[] args) {

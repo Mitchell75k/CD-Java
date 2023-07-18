@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.object_superclass;
+package Java_OOP.__notes__.oop_basics.object_superclass;
 
 //This file is used to demonstrate the use of the Object superclass.
 //The Object superclass is the parent class of all classes in Java. It has a few methods that are inherited by all classes, such as .toString(), .equals(), and .getClass(), etc.

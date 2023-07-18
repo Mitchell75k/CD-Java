@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.getters_setters_access_mods_constructors;
+package Java_OOP.__notes__.oop_basics.getters_setters_access_mods_constructors;
 
 //This file will be used to demonstrate the use of getters and setters, access modifiers, and constructor methods.
 

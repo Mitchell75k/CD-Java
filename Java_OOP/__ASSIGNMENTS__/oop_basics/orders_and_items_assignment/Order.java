@@ -1,4 +1,4 @@
-package Java_OOP.__ASSIGNMENTS__.orders_and_items_assignment;
+package Java_OOP.__assignments__.oop_basics.orders_and_items_assignment;
 import java.util.ArrayList;
 
 public class Order {

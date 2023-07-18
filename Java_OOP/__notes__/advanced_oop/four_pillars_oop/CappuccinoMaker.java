@@ -1,4 +1,4 @@
-package Java_OOP.__NOTES__.four_pillars_oop;
+package Java_OOP.__notes__.advanced_oop.four_pillars_oop;
 
 
 //this file is used to demonstrate inheritance, and inheritance, in Java classes
