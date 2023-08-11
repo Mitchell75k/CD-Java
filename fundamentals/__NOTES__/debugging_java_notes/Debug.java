@@ -1,4 +1,4 @@
-package fundamentals.__notes__.debugging_java_notes;
+package fundamentals.__NOTES__.debugging_java_notes;
 
 import java.util.ArrayList;
 
